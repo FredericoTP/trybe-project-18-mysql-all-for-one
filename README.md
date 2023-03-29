@@ -85,7 +85,7 @@ Nesse projeto foram criadas queries MySQL para pegar informações de um banco d
 
 ## 100% :heavy_check_mark:
 
-![Project-Mysql-All-for-One]()
+![Project-Mysql-All-for-One](https://raw.githubusercontent.com/FredericoTP/trybe-project-18-mysql-all-for-one/main/images/AllForOne-grade.png)
 
 </details>
 <br />
